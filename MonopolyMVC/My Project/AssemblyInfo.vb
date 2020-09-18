@@ -8,7 +8,7 @@ Imports System.Runtime.InteropServices
 ' associated with an assembly.
 
 ' Review the values of the assembly attributes
-<Assembly: AssemblyTitle("MonopolyAssembly")>
+<Assembly: AssemblyTitle("MonopolyMVC")>
 <Assembly: AssemblyDescription("Assembly for Monopoly Project")>
 <Assembly: AssemblyCompany("")>
 <Assembly: AssemblyProduct("Monopoly")>
