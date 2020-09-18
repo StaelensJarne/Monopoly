@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Monopoly", "Monopoly\Monopoly.vbproj", "{45FA418C-F6D4-4B36-A896-63D8BC85D768}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MonopolyMVC", "MonopolyMVC\MonopolyMVC.vbproj", "{45FA418C-F6D4-4B36-A896-63D8BC85D768}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Monopoly.Tests", "Monopoly.Tests\Monopoly.Tests.vbproj", "{AD1C0B2A-DE03-40EA-A70E-1EC9F1E1D3C1}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MonopolyTester", "MonopolyTester\MonopolyTester.vbproj", "{AD1C0B2A-DE03-40EA-A70E-1EC9F1E1D3C1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
