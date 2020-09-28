@@ -20,12 +20,9 @@ And [Microsoft SQL Server Management Studio](https://docs.microsoft.com/en-us/sq
 
 ## Install
 
-Dowloand the zip file and unzip it.
-Open a command prompt and run in the directory with the `sln` file. 
+Download Visual Studio 2019 and import the solution. \
+Run a build in Visual Studio and start the project without debugging.
 
-```
-dotner run  
-```
 ## Author
 
 Jarne Staelens (contact: [jarne.s107@gmail.com](mailto:jarne.s107@gmail.com))
